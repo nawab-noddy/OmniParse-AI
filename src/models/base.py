@@ -1,0 +1,1 @@
+# The declarative base class for all our database models, adding automated timestamps (created_at, updated_at).
